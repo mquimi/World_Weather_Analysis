@@ -8,7 +8,7 @@ The purpose of the PlanMyTrip app is to help users discover their next vacation 
 - Customers have the opportunity to insert their min and max tempertaure when looking for a vacation spot. 
 
 - The application then populates a recommended route and map with the cities based on min and max temperature
-![https://github.com/mquimi/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map.png]
+![alt text](https://github.com/mquimi/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map.png)
 
 - Once customers have the map with cities, it also allows them to see the hotels within that region
-![https://github.com/mquimi/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map_markers.png]
+![alt text](https://github.com/mquimi/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map_markers.png)
